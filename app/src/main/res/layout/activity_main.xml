@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#009688"
+    android:background="#FFFFFF"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -28,6 +28,7 @@
                 android:layout_marginLeft="10dp"
                 android:textAlignment="center"
                 android:textColor="@color/black"
+                android:backgroundTint="@color/black"
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             <ImageView
